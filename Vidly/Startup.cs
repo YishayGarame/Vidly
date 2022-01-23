@@ -10,5 +10,10 @@ namespace Vidly
         {
             ConfigureAuth(app);
         }
+
+        //MapperConfiguration mappingConfigs = new MapperConfiguration(mappingConfig =>
+        //{
+        //    mappingConfig.AddProfile(new MappingProfile());
+        //});
     }
 }
